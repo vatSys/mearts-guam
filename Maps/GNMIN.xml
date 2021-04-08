@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="GRO NAMES" Priority="1">   
+	<Label Name="GROFIX"> 
+		<Point Name="ZOVIK">+141841.690+1450136.840</Point>
+        <Point Name="JIRGI">+141120.630+1450317.950</Point>
+		<Point Name="ONSUW">+141050.470+1450927.860</Point>
+		<Point Name="REWJU">+140006.020+1452832.960</Point>	
+        <Point Name="TOXPA">+141004.630+1452644.860</Point>	
+		<Point Name="NUJCO">+142809.500+1453108.260</Point>
+		<Point Name="OPBUL">+141017.230+1452003.630</Point>	
+	</Label>
+  </Map>
+</Maps>

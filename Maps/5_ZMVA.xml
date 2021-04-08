@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="05_ZUA MVA" Priority="1">   
+	<Label HasLeader="false" Name="GUAM POLYGON"> 
+		<Point Name="2300">+133300.000+1444020.000</Point>
+        <Point Name="2600">+131128.000+1443855.000</Point>
+		<Point Name="1800">+133908.000+1443009.000</Point>
+		<Point Name="1800">+133442.000+1450616.000</Point>
+		<Point Name="1800">+135417.000+1445804.000</Point>
+	</Label>
+	<Line Pattern="Dashed" Name="GUAM POLYGON">
+	+134300.000+1450100.000/
+	+133000.000+1450100.000/
+	+131000.000+1445100.000/
+	+131000.000+1443200.000/
+	+133000.000+1443200.000/
+	+134300.000+1444900.000/
+	+134300.000+1450100.000</Line>
+	<Line Pattern="Dashed" Name="GUAM POLYGON">
+	+132400.000+1444000.000/
+	+131600.000+1445400.000</Line>	
+	<Line Pattern="Dashed" Name="GUAM POLYGON">
+	+132400.000+1444000.000/
+	+132400.000+1443200.000</Line>	
+	<Label HasLeader="false" Name="ROTA POLYGON"> 
+		<Point Name="2900">+141632.000+1450856.000</Point>
+	</Label>	
+	<Line Pattern="Dashed" Name="ROTA POLYGON">
+	+141800.000+1452300.000/
+	+140100.000+1452300.000/
+	+140100.000+1450200.000/
+	+141800.000+1450200.000/
+	+141800.000+1452300.000</Line>	
+	<Label HasLeader="false" Name="SAIPAN TINIAN POLYGON"> 
+		<Point Name="1800">+143706.000+1451826.000</Point>
+		<Point Name="2800">+152031.000+1454452.000</Point>
+	</Label>
+	<Line Pattern="Dashed" Name="SAIPAN TINIAN POLYGON">
+	+152300.000+1455500.000/
+	+150000.000+1455500.000/
+	+144500.000+1453500.000/
+	+144540.000+1453000.000/
+	+150700.000+1453000.000/
+	+152300.000+1454200.000/
+	+152300.000+1455500.000</Line>		
+  </Map> 
+  <Map Type="Global_Private" CustomColourName="Yellow" Name="05_ZUA MVA" Priority="1">   
+	<Label HasLeader="false" Name="GUAM POLYGON"> 
+		<Point Name="^">+132559.000+1444246.000</Point>
+		<Point Name="^">+132025.000+1443954.000</Point>	
+		<Point Name="^">+132914.000+1444948.000</Point>
+        <Point Name="^">+133215.000+1445457.000</Point>
+		<Point Name="1190">+132540.000+1444200.000</Point>
+		<Point Name="1532">+132000.000+1443900.000</Point>
+		<Point Name="865">+132900.000+1444930.000</Point>
+        <Point Name="926">+133142.000+1445440.000</Point>
+	</Label>	
+	<Label HasLeader="false" Name="ROTA POLYGON"> 
+		<Point Name="^">+140841.500+1451115.500</Point>
+		<Point Name="1824">+140816.100+1451029.700</Point>
+	</Label>
+	<Label HasLeader="false" Name="SAIPAN TINIAN POLYGON"> 
+		<Point Name="^">+151107.500+1454427.500</Point>
+		<Point Name="1738">+151032.200+1454312.500</Point>
+	</Label>	
+  </Map>  
+</Maps>

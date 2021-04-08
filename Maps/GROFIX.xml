@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="GRO APPRCH" Priority="1">   
+	<Label Name="GROFIX"> 
+		<Point Name="X">+141841.690+1450136.840</Point>
+        <Point Name="X">+141120.630+1450317.950</Point>
+		<Point Name="X">+141050.470+1450927.860</Point>
+		<Point Name="X">+140006.020+1452832.960</Point>	
+        <Point Name="X">+141004.630+1452644.860</Point>	
+		<Point Name="X">+142809.500+1453108.260</Point>
+		<Point Name="X">+141017.230+1452003.630</Point>	
+	</Label>
+  </Map>
+</Maps>

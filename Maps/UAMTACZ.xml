@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="UAM TACAN Z" Priority="1">   
+	<Label Name="UAM TACAN 06L"> 
+		<Point Name=".">+133442.600+1445453.700</Point>
+        <Point Name=".">+133422.000+1445356.700</Point>
+		<Point Name=".">+133359.100+1445305.400</Point>
+		<Point Name=".">+133336.300+1445208.400</Point>
+		<Point Name=".">+133313.400+1445111.500</Point>
+		<Point Name=".">+133250.500+1445014.500</Point>
+		<Point Name=".">+133227.600+1444917.500</Point>
+		<Point Name=".">+133204.700+1444820.500</Point>
+		<Point Name=".">+133141.800+1444723.600</Point>
+		<Point Name=".">+133118.900+1444626.600</Point>
+		<Point Name=".">+133056.000+1444529.600</Point>
+		<Point Name=".">+133033.100+1444432.700</Point>
+		<Point Name=".">+133010.100+1444335.700</Point>
+		<Point Name=".">+132947.200+1444238.800</Point>
+		<Point Name=".">+132924.300+1444141.800</Point>
+		<Point Name="">+133248.000+1445008.500</Point>
+		<Point Name="Z">+132904.090+1444037.070</Point>
+	</Label>     
+	<Label Name="UAM TACAN 06R"> 
+		<Point Name=".">+133402.600+1445405.000</Point>
+        <Point Name=".">+133334.000+1445310.800</Point>
+		<Point Name=".">+133305.500+1445216.500</Point>
+		<Point Name=".">+133236.900+1445122.300</Point>
+		<Point Name=".">+133208.300+1445028.100</Point>
+		<Point Name=".">+133139.700+1444933.900</Point>
+		<Point Name=".">+133111.100+1444839.700</Point>
+		<Point Name=".">+133042.500+1444745.400</Point>
+		<Point Name=".">+133013.900+1444651.200</Point>
+		<Point Name=".">+132945.300+1444557.000</Point>
+		<Point Name=".">+132916.700+1444502.800</Point>
+		<Point Name=".">+132848.000+1444408.600</Point>
+		<Point Name=".">+132819.400+1444314.500</Point>
+		<Point Name=".">+132750.800+1444220.300</Point>
+		<Point Name=".">+132722.200+1444126.100</Point>
+		<Point Name="">+133220.700+1445042.000</Point>		
+	    <Point Name="Z">+132726.960+1444123.290</Point>	
+	</Label>	
+	<Label Name="UAM TACAN 24L"> 
+		<Point Name=".">+133539.900+1445741.900</Point>
+        <Point Name=".">+133552.700+1445842.100</Point>
+		<Point Name=".">+133605.600+1445942.300</Point>
+		<Point Name=".">+133618.400+1450042.500</Point>
+		<Point Name=".">+133631.200+1450142.700</Point>
+		<Point Name=".">+133644.000+1450242.900</Point>
+		<Point Name=".">+133656.800+1450343.100</Point>
+		<Point Name=".">+133709.600+1450443.300</Point>
+		<Point Name=".">+133722.400+1450543.500</Point>
+		<Point Name=".">+133735.200+1450643.700</Point>
+		<Point Name=".">+133748.000+1450743.900</Point>
+		<Point Name=".">+133800.800+1450844.100</Point>
+		<Point Name=".">+133813.600+1450944.300</Point>
+		<Point Name=".">+133826.400+1451044.500</Point>
+		<Point Name=".">+133839.200+1451144.800</Point>
+		<Point Name=".">+133852.000+1451245.000</Point>
+		<Point Name="">+133633.500+1450154.400</Point>
+	    <Point Name="Z">+133900.800+1451352.370</Point>
+	</Label>     
+	<Label Name="UAM TACAN 24R"> 
+		<Point Name=".">+133601.200+1445731.800</Point>
+        <Point Name=".">+133637.700+1445820.800</Point>
+		<Point Name=".">+133714.200+1445909.800</Point>
+		<Point Name=".">+133750.700+1445958.900</Point>
+		<Point Name=".">+133827.300+1450047.900</Point>
+		<Point Name=".">+133903.800+1450136.900</Point>
+		<Point Name=".">+133940.300+1450225.900</Point>
+		<Point Name=".">+134016.800+1450315.000</Point>
+		<Point Name=".">+134053.300+1450404.000</Point>
+		<Point Name=".">+134129.700+1450453.100</Point>
+		<Point Name=".">+134206.200+1450542.100</Point>
+		<Point Name=".">+134242.700+1450631.200</Point>
+		<Point Name=".">+134319.200+1450720.200</Point>
+		<Point Name=".">+134355.700+1450809.300</Point>
+		<Point Name=".">+134432.200+1450858.400</Point>
+		<Point Name=".">+134508.700+1450947.400</Point>
+		<Point Name="">+133831.900+1450058.500</Point>		
+	    <Point Name="Z">+134544.530+1451044.710</Point>
+	    <Point Name="X">+140258.100+1453329.600</Point>		
+	</Label>	
+  </Map>                
+</Maps>                 

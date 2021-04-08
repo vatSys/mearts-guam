@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="RNAV P 24" Priority="1">   
+	<Label Name="RNAV24"> 
+		<Point Name="P">+142819.420+1435030.610</Point>
+        <Point Name="P">+143933.030+1440802.810</Point>
+		<Point Name="P">+144554.220+1442704.300</Point>
+		<Point Name="P">+144729.600+1444837.220</Point>
+		<Point Name="P">+134353.120+1445543.750</Point>
+		<Point Name="P">+133135.800+1445318.110</Point>
+		<Point Name="P">+133445.200+1450255.480</Point>
+		<Point Name="P">+133942.870+1451728.140</Point>
+		<Point Name="P">+132824.470+1450259.800</Point>
+		<Point Name="P">+123634.410+1454734.810</Point>
+		<Point Name="P">+125612.630+1455937.870</Point>
+		<Point Name="P">+133122.060+1445304.790</Point>
+		<Point Name="P">+124601.660+1433338.530</Point>
+		<Point Name="P">+132608.140+1445554.350</Point>
+		<Point Name="P">+132554.390+1445541.010</Point>
+		<Point Name="P">+132206.620+1444722.530</Point>
+		<Point Name="P">+132218.130+1444731.150</Point>	
+	</Label>
+  </Map>
+</Maps>

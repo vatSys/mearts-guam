@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="08_GUM ILS 6R" Priority="1">   
+	<Label HasLeader="false" Name="GUAM APPROACH FIXS"> 
+		<Point Name="X">+133521.000+1443952.000</Point>
+        <Point Name="X">+131821.000+1444532.000</Point>
+		<Point Name="X">+132405.000+1442447.000</Point>
+	</Label>
+	<Label HasLeader="false" Name="GUM ILS FOR GUM 06R"> 
+		<Point Name=".">+132812.000+1444609.700</Point>
+        <Point Name=".">+132746.200+1444514.000</Point>
+		<Point Name=".">+132720.500+1444418.300</Point>
+		<Point Name=".">+132654.700+1444322.700</Point>
+		<Point Name=".">+132628.900+1444227.000</Point>
+		<Point Name=".">+132603.200+1444131.400</Point>
+		<Point Name=".">+132537.400+1444035.700</Point>
+		<Point Name=".">+132511.600+1443940.100</Point>
+		<Point Name=".">+132445.800+1443844.400</Point>
+		<Point Name=".">+132420.000+1443748.800</Point>
+		<Point Name=".">+132354.300+1443653.100</Point>
+		<Point Name=".">+132328.500+1443557.500</Point>
+		<Point Name=".">+132302.700+1443501.900</Point>
+		<Point Name=".">+132236.900+1443406.300</Point>
+		<Point Name=".">+132211.100+1443310.600</Point>
+		<Point Name=".">+132145.300+1443215.000</Point>
+		<Point Name=".">+132119.400+1443119.400</Point>
+		<Point Name=".">+132053.600+1443023.800</Point>
+		<Point Name=".">+132027.800+1442928.200</Point>
+		<Point Name=".">+132002.000+1442832.600</Point>
+		<Point Name=".">+131936.200+1442737.000</Point>
+		<Point Name=".">+131910.300+1442641.400</Point>
+		<Point Name="">+132622.580+1444209.780</Point>
+		<Point Name="X">+132323.790+1443539.370</Point>
+		<Point Name="X">+131750.700+1442703.000</Point>					
+	</Label>
+	<Line Name="GUM ILS FOR GUM 06R">
+	+132615.400+1444121.900/
+	+132602.500+1444054.100</Line>	
+	<Line Name="GUM ILS FOR GUM 06R">
+	+132609.000+1444108.000/
+	+132636.200+1444054.800</Line>	
+	<Line Name="GUM ILS FOR GUM 06R">
+	+132548.100+1444135.100/
+	+132535.200+1444107.300</Line>	
+	<Line Name="GUM ILS FOR GUM 06R">
+	+132541.700+1444121.200/
+	+132514.400+1444134.400</Line>	
+  </Map>
+</Maps>

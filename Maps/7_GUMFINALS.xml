@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="07_GUM FINALS" Center="+133215.995+1445452.500" Priority="1">   
+	<Label>  
+		<Point PointName="NDB">AJA</Point>
+	</Label>
+	<Label HasLeader="false" Name="GUAM APPROACH FIXS"> 
+		<Point Name="X">+133521.000+1443952.000</Point>
+        <Point Name="X">+131821.000+1444532.000</Point>
+		<Point Name="X">+133402.000+1444204.000</Point>
+		<Point Name="X">+132020.000+1444511.000</Point>
+	</Label>
+	<Label HasLeader="false" Name="GUM ILS FOR GUM 06L"> 
+		<Point Name=".">+132818.000+1444607.000</Point>
+        <Point Name=".">+132752.000+1444511.000</Point>
+		<Point Name=".">+132726.000+1444416.000</Point>
+		<Point Name=".">+132700.000+1444320.000</Point>
+		<Point Name=".">+132634.000+1444225.000</Point>
+		<Point Name=".">+132608.000+1444129.000</Point>
+		<Point Name=".">+132542.000+1444033.000</Point>
+		<Point Name=".">+132516.000+1443938.000</Point>
+		<Point Name=".">+132450.000+1443842.000</Point>
+		<Point Name=".">+132424.000+1443747.000</Point>
+		<Point Name=".">+132358.000+1443651.000</Point>
+		<Point Name=".">+132332.000+1443556.000</Point>
+		<Point Name="">+132626.000+1444207.000</Point>
+		<Point Name="X">+132329.940+1443536.000</Point>
+		<Point Name=".">+132957.900+1444938.200</Point>
+		<Point Name=".">+133025.500+1445032.900</Point>
+		<Point Name=".">+133053.200+1445127.600</Point>
+		<Point Name=".">+133120.800+1445222.400</Point>
+		<Point Name=".">+133148.400+1445317.100</Point>
+		<Point Name=".">+133216.000+1445411.800</Point>
+		<Point Name=".">+133243.600+1445506.600</Point>
+		<Point Name=".">+133311.300+1445601.300</Point>
+		<Point Name=".">+133338.900+1445656.100</Point>
+		<Point Name=".">+133406.500+1445750.800</Point>
+		<Point Name="">+133134.600+1445249.700</Point>
+		<Point Name="X">+133420.300+1445818.200</Point>					
+	</Label>	
+	<Line Name="GUM ILS FOR GUM 06L">
+	+132443.000+1443717.000/
+	+132349.000+1443743.000</Line>	
+	<Line Name="GUM ILS FOR GUM 06L">
+	+132621.700+1444118.900/
+	+132608.800+1444051.100</Line>	
+	<Line Name="GUM ILS FOR GUM 06L">
+	+132615.300+1444105.000/
+	+132628.900+1444058.400</Line>	
+	<Line Name="GUM ILS FOR GUM 06L">
+	+132554.400+1444132.100/
+	+132541.500+1444104.300</Line>	
+	<Line Name="GUM ILS FOR GUM 06L">
+	+132548.000+1444118.200/
+	+132534.300+1444124.800</Line>		
+  </Map>  
+</Maps>
+

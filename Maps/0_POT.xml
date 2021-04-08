@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="0_POT" Center="+133215.995+1445452.500" Priority="1">
+	<Label HasLeader="false" Name="PointOfTangency">
+		<Point Name="T">+133215.995+1445452.500</Point>
+	</Label>
+  </Map>
+</Maps>

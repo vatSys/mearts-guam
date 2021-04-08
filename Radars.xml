@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Radars>
+        <Radar Name="SANTA ROSA" Elevation="828" Type="PRI" MaxRange="60" >
+          <Long>+1445451.000</Long> <Lat>+133208.000</Lat>
+        </Radar>
+        <Radar Name="ASR/CD-2" Elevation="828" Type="SSR_ModeS" MaxRange="250" >
+          <Long>+1445454.000</Long> <Lat>+133224.000</Lat>
+        </Radar>
+        <Radar Name="GUM1" Elevation="305" Type="ADSB" MaxRange="75" >
+          <Long>+1444749.000</Long> <Lat>+132843.800</Lat>
+        </Radar>
+        <Radar Name="QLR2" Elevation="828" Type="ADSB" MaxRange="75" >
+          <Long>+1445451.600</Long> <Lat>133208.400</Lat>
+        </Radar>
+        <Radar Name="GSN3" Elevation="210" Type="ADSB" MaxRange="75" >
+          <Long>+1454343.500</Long> <Lat>+150723.600</Lat>
+        </Radar>
+</Radars>

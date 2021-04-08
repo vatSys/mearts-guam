@@ -1,0 +1,43 @@
+<?xml version="10"+ncoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="APPRCH FIXES" Priority="1">   
+	<Label Name="GUAM APPROACH FIX NAMES"> 
+		<Point>CETAS</Point>
+        <Point>FIGOR</Point>
+		<Point>HAMAL</Point>
+		<Point>ZEEKE</Point>
+		<Point Name="OBALE-6L ILS">+132248.000+1443444.000</Point>
+        <Point>FIBEE</Point>
+		<Point>RASPE</Point>
+		<Point>BURLE</Point>
+        <Point Name="HAGIX-24R">+134345.000+144561.0000</Point>
+		<Point Name="WABOX-24R">+13344.0000+1450035.000</Point>
+		<Point>FAPAM</Point>
+		<Point>BAGBE</Point>
+        <Point Name="CADUK-24L">+134308.000+144561.0000</Point>
+		<Point>SIDPE</Point>
+		<Point Name="CIBOL-24L">+133403.000+1450035.000</Point>
+		<Point Name="DALPE-6R RNAV">+132211.000+1443444.000</Point>
+		<Point>HESNA</Point>
+        <Point Name="MEMKE-6R ILS">+132134.000+1443444.000</Point>
+		<Point>FOLAP</Point>	
+	</Label>	
+  </Map>
+  <Map Type="Local_Private" CustomColourName="Yellow" Name="APPRCH FIXES" Priority="1">   
+	<Label Name="GUAM APPROACH FIX NAMES"> 
+		<Point>FOVEM</Point>
+        <Point>HURUG</Point>
+		<Point>LOGLE</Point>
+		<Point>HILRI</Point>	
+		<Point>FABED</Point>
+        <Point>PANNS</Point>
+		<Point>WELKU</Point>
+		<Point>ADTIN</Point>
+		<Point>FABHA</Point>
+        <Point>TOCOG</Point>
+		<Point>VEAGA</Point>
+		<Point>MDBUG</Point>
+		<Point>DWAFF</Point>
+	</Label>	
+  </Map>  
+</Maps>

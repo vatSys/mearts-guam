@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="RNAV P NAMES" Priority="1">   
+	<Label Name="RNAVP"> 
+		<Point Name="IMEDE">+142819.420+1435230.610</Point>
+        <Point Name="CORUL">+143933.030+1441002.810</Point>
+		<Point Name="JARIN">+144554.220+1442904.300</Point>
+		<Point Name="HEXOR">+144729.600+1445037.220</Point>
+		<Point Name="OBSAE">+134353.120+1445643.750</Point>
+		<Point Name="CHOLO">+133200.990+1445527.280</Point>
+		<Point Name="DELAC">+133445.200+1450455.480</Point>
+		<Point Name="NERIC">+133942.870+1451928.140</Point>
+		<Point Name="JADKA">+132824.470+1450459.800</Point>
+		<Point Name="WENOV">+123634.410+1454934.810</Point>
+		<Point Name="ZEGAR">+125612.630+1460137.870</Point>
+		<Point Name="SLEPT">+133126.280+1445514.040</Point>
+		<Point Name="ALMEH">+124601.660+1433538.530</Point>
+		<Point Name="HASAK">+132626.330+1445803.520</Point>
+		<Point Name="ETOME">+132558.620+1445750.280</Point>
+		<Point Name="FEGUT">+132145.570+1444922.410</Point>
+		<Point Name="ICAKE">+132218.040+1444930.950</Point>	
+	</Label>
+  </Map>
+  </Map>
+</Maps>

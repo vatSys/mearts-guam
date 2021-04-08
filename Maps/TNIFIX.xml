@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="TNI APPRCH" Priority="1">   
+	<Label Name="TNIFIX"> 
+		<Point Name="X">+145249.390+1452628.500</Point>
+        <Point Name="X">+145745.140+1452529.390</Point>
+		<Point Name="X">+150340.030+1452418.400</Point>
+		<Point Name="X">+150210.840+1454902.340</Point>	
+        <Point Name="X">+150057.850+1454232.860</Point>	
+	</Label>	
+  </Map>
+</Maps>

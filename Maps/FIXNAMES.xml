@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="White" Name="FIX NAMES" Priority="1">   
+	<Label Name="OCEANIC FIXES"> 
+		<Point>BESSS</Point>
+        <Point>DEWSS</Point>
+		<Point>FATUM</Point>
+		<Point>FIBSS</Point>
+		<Point>GALSS</Point>
+		<Point>GUNSS</Point>
+		<Point>GOOFI</Point>
+		<Point>HUTEL</Point>
+		<Point>HOOVR</Point>
+		<Point>IDAAS</Point>
+		<Point>PIGFA</Point>
+		<Point>JOBSS</Point>
+		<Point>KITSS</Point>
+		<Point>LADSS</Point>
+		<Point>MIKYY</Point>
+		<Point>NATSS</Point>
+		<Point>OATSS</Point>
+		<Point>RICHH</Point>
+		<Point>TERYY</Point>
+		<Point>TOESS</Point>
+		<Point>TEEDE</Point>
+	</Label>
+  </Map>
+</Maps>

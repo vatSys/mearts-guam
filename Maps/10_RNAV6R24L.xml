@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="10_GUMRNAV 6R24L" Priority="1">   
+	<Label HasLeader="false" Name="GUMRNAV 6R"> 
+		<Point Name=".">+132812.000+1444609.600</Point>
+        <Point Name=".">+132746.200+1444514.000</Point>
+		<Point Name=".">+132720.400+1444418.300</Point>
+		<Point Name=".">+132654.700+1444322.600</Point>
+		<Point Name=".">+132628.900+1444227.000</Point>
+		<Point Name=".">+132603.100+1444131.300</Point>
+		<Point Name=".">+132537.400+1444035.700</Point>
+		<Point Name=".">+132511.600+1443940.000</Point>
+		<Point Name=".">+132445.800+1443844.400</Point>
+		<Point Name=".">+132420.000+1443748.800</Point>
+		<Point Name=".">+132354.200+1443653.100</Point>
+		<Point Name=".">+132328.400+1443557.500</Point>
+		<Point Name="">+132622.500+1444209.780</Point>
+		<Point Name="X">+132320.700+1443540.800</Point>
+		<Point Name="X">+132803.060+1443326.040</Point>
+		<Point Name="X">+131424.060+1443956.760</Point>
+		<Point Name="X">+133125.050+1440309.830</Point>				
+	</Label>
+	<Label HasLeader="false" Name="GUMRNAV 24L"> 
+		<Point Name=".">+132941.300+1444923.700</Point>
+        <Point Name=".">+133007.100+1445019.400</Point>
+		<Point Name=".">+133032.800+1445115.100</Point>
+		<Point Name=".">+133058.500+1445210.800</Point>
+		<Point Name=".">+133124.300+1445306.500</Point>
+		<Point Name=".">+133150.000+1445402.100</Point>
+		<Point Name=".">+133215.700+1445457.800</Point>
+		<Point Name=".">+133241.500+1445553.500</Point>
+		<Point Name=".">+133307.200+1445649.200</Point>
+		<Point Name=".">+133332.900+1445744.900</Point>
+		<Point Name=".">+133358.600+1445840.700</Point>
+		<Point Name=".">+133424.400+1445936.400</Point>
+		<Point Name="">+133126.900+1445312.100</Point>
+		<Point Name="X">+133424.400+1445936.400</Point>
+		<Point Name="X">+134326.820+1445515.300</Point>
+		<Point Name="X">+132947.700+1450146.080</Point>
+		<Point Name="X">+133915.540+1451746.620</Point>				
+	</Label>	
+  </Map>
+</Maps>

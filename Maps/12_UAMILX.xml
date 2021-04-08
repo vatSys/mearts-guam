@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="12_UAM ILS 6R24L" Priority="1">   
+	<Label HasLeader="false" Name="UAM ILS 06R"> 
+		<Point Name=".">+133406.300+1445403.300</Point>
+        <Point Name=".">+133341.500+1445307.100</Point>
+		<Point Name=".">+133316.700+1445211.000</Point>
+		<Point Name=".">+133251.900+1445114.800</Point>
+		<Point Name=".">+133227.100+1445018.700</Point>
+		<Point Name=".">+133202.300+1444922.600</Point>
+		<Point Name=".">+133137.400+1444826.500</Point>
+		<Point Name=".">+133112.600+1444730.300</Point>
+		<Point Name=".">+133047.800+1444634.200</Point>
+		<Point Name=".">+133023.000+1444538.100</Point>
+		<Point Name=".">+132958.100+1444442.000</Point>
+		<Point Name=".">+132933.300+1444345.900</Point>
+		<Point Name=".">+132908.400+1444249.800</Point>
+		<Point Name=".">+132843.600+1444153.700</Point>
+		<Point Name="">+133235.100+1445034.760</Point>
+		<Point Name="X">+132820.930+1444056.140</Point>
+	</Label>
+	<Line Name="UAM ILS FOR UAM 06R APPROACH GATE">
+		+133222.900+1444932.400/
+		+133250.100+1444919.200</Line>
+	<Line Name="UAM ILS FOR UAM 06R APPROACH GATE">		
+		+133229.300+1444946.300/
+		+133216.400+1444918.500</Line>
+	<Line Name="UAM ILS FOR UAM 06R APPROACH GATE">		
+		+133155.600+1444945.600/
+		+133128.300+1444958.800</Line>
+	<Line Name="UAM ILS FOR UAM 06R APPROACH GATE">		
+		+133202.000+1444959.500/
+		+133149.100+1444931.700</Line>		
+	<Label HasLeader="false" Name="GUM ILS 24L"> 
+		<Point Name=".">+133541.900+1445739.100</Point>
+        <Point Name=".">+133606.100+1445835.300</Point>
+		<Point Name=".">+133630.900+1445931.500</Point>
+		<Point Name=".">+133655.700+1450027.600</Point>
+		<Point Name=".">+133720.500+1450123.800</Point>
+		<Point Name=".">+133745.300+1450219.900</Point>
+		<Point Name=".">+133810.100+1450316.100</Point>
+		<Point Name=".">+133834.800+1450412.300</Point>
+		<Point Name=".">+133859.600+1450508.500</Point>
+		<Point Name=".">+133924.400+1450604.600</Point>
+		<Point Name=".">+133949.100+1450700.800</Point>
+		<Point Name=".">+134013.900+1450757.000</Point>
+		<Point Name=".">+134038.600+1450853.200</Point>
+		<Point Name=".">+134103.400+1450949.400</Point>
+		<Point Name=".">+134128.100+1451045.600</Point>
+		<Point Name=".">+134152.900+1451141.800</Point>
+		<Point Name="">+133715.380+1450114.370</Point>
+		<Point Name="X">+134218.340+1451247.720</Point>
+	</Label>            
+	<Line Name="UAM ILS FOR UAM 24L APPROACH GATE">
+		+133726.300+1450216.800/
+		+133658.800+1450229.500</Line>
+	<Line Name="UAM ILS FOR UAM 24L APPROACH GATE">		
+		+133720.100+1450202.800/
+		+133732.500+1450230.800</Line>
+	<Line Name="UAM ILS FOR UAM 24L APPROACH GATE">		
+		+133753.800+1450204.200/
+		+133821.200+1450151.500</Line>
+	<Line Name="UAM ILS FOR UAM 24L APPROACH GATE">		
+		+133747.600+1450150.200/
+		+133800.000+1450218.200</Line>		
+  </Map>
+</Maps>

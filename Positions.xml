@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Position Name="R1" Type="ASD" DefaultCenter="+133215.995+1445452.500" DefaultRange="1000">
+	<ManualVisibility>
+		<Point>+133215.995+1445452.500</Point>		
+	</ManualVisibility>  
+    <Sectors>
+      <Sector Name="R1" />
+    </Sectors>
+    <Maps>
+      <Map Name="01_ATS ROUTES" />
+	  <Map Name="0_POT" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="999000" />
+    <ArrivalLists>
+      <Airport Name="PGUM" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Guam Center</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="R4" Type="ASD" DefaultCenter="+133215.995+1445452.500" DefaultRange="500">
+	<ManualVisibility>
+		<Point>+133215.995+1445452.500</Point>		
+	</ManualVisibility>  
+    <Sectors>
+      <Sector Name="R4" />
+    </Sectors>
+    <Maps>
+      <Map Name="01_ATS ROUTES" />
+	  <Map Name="0_POT" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="999000" />
+    <ArrivalLists>
+      <Airport Name="PGUM" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Guam Center</Line>
+    </ControllerInfo>
+  </Position>  
+  <Position Name="AR" Type="ASD" DefaultCenter="+133215.995+1445452.500" DefaultRange="150">
+	<ManualVisibility>
+		<Point>+133215.995+1445452.500</Point>		
+	</ManualVisibility>  
+    <Sectors>
+      <Sector Name="AR" />
+    </Sectors>
+    <Maps>
+      <Map Name="01_ATS ROUTES" />
+	  <Map Name="0_POT" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="999000" />
+    <ArrivalLists>
+      <Airport Name="PGUM" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Guam Center</Line>
+    </ControllerInfo>
+  </Position>  
+</Positions>

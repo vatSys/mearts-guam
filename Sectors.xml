@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Sector FullName="Oceanic R1" Frequency="118.700" Callsign="GUM_CTR" Name="R1">  
+<Volumes>R1,R1a,R1b</Volumes> 
+  </Sector>  
+  <Sector FullName="Domestic R4" Frequency="118.400" Callsign="GUM_E_CTR" Name="R4">  
+<Volumes>UNZ,SN</Volumes> 
+  </Sector>  
+  <Sector FullName="Terminal AR" Frequency="119.800" Callsign="GUM_APP" Name="AR">  
+<Volumes>AR</Volumes> 
+  </Sector>   
+</Sectors>

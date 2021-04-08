@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TrackSymbols>
+	<TrackSymbol Type="Primary">
+		<PathGeometry>
+			<Figure Start="0,-9" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-9,5</Line>
+				<Line>9,5</Line>
+				<Line>0,-9</Line>
+			</Figure>
+			<Figure Start="-4,-4" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5,5</Line>
+			</Figure>
+			<Figure Start="4,-4" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-5,5</Line>
+			</Figure>			
+		</PathGeometry>
+	</TrackSymbol>
+	
+	<!-- Special Code 1 Diamond -->
+	<TrackSymbol Type="ModeA" SpecialCode="0001">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	<TrackSymbol Type="ModeS" SpecialCode="0001">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	
+	<!-- Special Code 2 Diamond -->
+	<TrackSymbol Type="ModeA" SpecialCode="2000">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	<TrackSymbol Type="ModeS" SpecialCode="2000">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	
+	<!-- Special Code 3 Diamond -->
+	<TrackSymbol Type="ModeA" SpecialCode="0100">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	<TrackSymbol Type="ModeS" SpecialCode="0100">
+		<PathGeometry>
+			<Figure Start="-6,-6" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-6,6</Line>
+				<Line>6,6</Line>
+				<Line>6,-6</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>
+	
+	<!-- Special Code 4 Diamond -->
+	<TrackSymbol Type="ModeA" SpecialCode="1200">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	<TrackSymbol Type="ModeS" SpecialCode="1200">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	
+	<!-- SSR Diamond -->
+	<TrackSymbol Type="ModeA">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	<TrackSymbol Type="ModeS">
+		<PathGeometry>
+			<Figure Start="-10,0" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>0,10</Line>
+				<Line>10,0</Line>
+				<Line>0,-10</Line>
+				<Line>-10,0</Line>				
+			</Figure>
+		</PathGeometry>		
+	</TrackSymbol>	
+	<!--TrackSymbol Type="ModeA">
+		<PathGeometry>
+			<Figure Start="0,-9" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-6,5</Line>
+				<Line>6,5</Line>
+				<Line>0,-9</Line>
+			</Figure>
+		</PathGeometry>			
+	</TrackSymbol>
+	<TrackSymbol Type="ModeS">
+		<PathGeometry>
+			<Figure Start="0,-9" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-6,5</Line>
+				<Line>6,5</Line>
+				<Line>0,-9</Line>
+			</Figure>
+		</PathGeometry>	
+	</TrackSymbol-->
+	
+	<!-- ADSB Star in Diamond -->
+	<TrackSymbol Type="ADSB" RotateToTrack="True">
+		<PathGeometry>
+			<Figure Start="0,-10" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-2,-7</Line>
+				<Line>-2,-2</Line>
+				<Line>-12,4</Line>
+				<Line>-12,7</Line>
+				<Line>-2,4</Line>
+				<Line>-2,9</Line>
+				<Line>-6,11</Line>
+				<Line>-6,14</Line>
+				<Line>0,12</Line>
+				<Line>6,14</Line>
+				<Line>6,11</Line>
+				<Line>2,9</Line>
+				<Line>2,4</Line>
+				<Line>12,7</Line>
+				<Line>12,4</Line>
+				<Line>2,-2</Line>	
+				<Line>2,-7</Line>
+				<Line>0,-10</Line>				
+			</Figure>			
+		</PathGeometry>
+	</TrackSymbol>
+	
+	<!--Flight plan hollow plane-->
+	<TrackSymbol Type="FlightPlan" RotateToTrack="True">
+		<PathGeometry>
+			<Figure Start="0,-10" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-2,-7</Line>
+				<Line>-2,-2</Line>
+				<Line>-12,4</Line>
+				<Line>-12,7</Line>
+				<Line>-2,4</Line>
+				<Line>-2,9</Line>
+				<Line>-6,11</Line>
+				<Line>-6,14</Line>
+				<Line>0,12</Line>
+				<Line>6,14</Line>
+				<Line>6,11</Line>
+				<Line>2,9</Line>
+				<Line>2,4</Line>
+				<Line>12,7</Line>
+				<Line>12,4</Line>
+				<Line>2,-2</Line>	
+				<Line>2,-7</Line>
+				<Line>0,-10</Line>				
+			</Figure>	
+		</PathGeometry>
+	</TrackSymbol>
+	
+	<TrackSymbol Type="Cancelled">
+		<EllipseGeometry Center="0,0" RadiusX="3" RadiusY="3" />
+	</TrackSymbol>
+	<TrackSymbol Type="HistoryMarker" StrokeWidth="0">
+		<EllipseGeometry Center="0,0" RadiusX="1" RadiusY="1" />
+	</TrackSymbol>
+	<TrackSymbol Type="VelocityMarker" StrokeWidth="0">
+		<EllipseGeometry Center="0,0" RadiusX="2" RadiusY="2" />
+	</TrackSymbol>
+	<TrackSymbol Type="SRPTimeMarker" StrokeWidth="0">
+		<RectangleGeometry TopLeft="-2,-2" BottomRight="2,2" />
+	</TrackSymbol>
+	<TrackSymbol Type="SRPDistanceMarker">
+		<PathGeometry>
+			<Figure Start="-3,-3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>3, 3</Line>
+			</Figure>
+			<Figure Start="3,-3" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-3, 3</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>
+
+	<!-- Radar Coast Hashtag-->	
+	<TrackSymbol Type="CoastRadar" StrokeWidth="3">
+		<PathGeometry>
+			<Figure Start="-2,-5" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>-3,6</Line>
+			</Figure>
+			<Figure Start="2,-5" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>1,6</Line>
+			</Figure>
+			<Figure Start="-5,-2" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5,-2</Line>
+			</Figure>	
+			<Figure Start="-5,2" FigureBegin="Hollow" FigureEnd="Open">
+				<Line>5, 2</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>		
+
+	<!-- ADSB Coast Cross-->	
+	<TrackSymbol Type="CoastADSB" StrokeWidth="3">
+		<PathGeometry>
+			<Figure Start="0,-10" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-2,-7</Line>
+				<Line>-2,-2</Line>
+				<Line>-12,4</Line>
+				<Line>-12,7</Line>
+				<Line>-2,4</Line>
+				<Line>-2,9</Line>
+				<Line>-6,11</Line>
+				<Line>-6,14</Line>
+				<Line>0,12</Line>
+				<Line>6,14</Line>
+				<Line>6,11</Line>
+				<Line>2,9</Line>
+				<Line>2,4</Line>
+				<Line>12,7</Line>
+				<Line>12,4</Line>
+				<Line>2,-2</Line>	
+				<Line>2,-7</Line>
+				<Line>0,-10</Line>				
+			</Figure>	
+		</PathGeometry>
+	</TrackSymbol>		
+	
+	<!-- Selection Octagon N/A -->
+	<TrackSymbol Type="Selection">
+		<PathGeometry>
+			<Figure Start="11,-5" FigureBegin="Hollow" FigureEnd="Closed">
+				<Line>5, -11</Line>
+				<Line>-5, -11</Line>
+				<Line>-11, -5</Line>
+				<Line>-11, 5</Line>
+				<Line>-5, 11</Line>
+				<Line>5, 11</Line>
+				<Line>11, 5</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>
+			
+	<!-- Ground Diamond -->
+	<TrackSymbol Type="Ground" StrokeWidth="0">
+		<PathGeometry>
+			<Figure Start="0,-6" FigureBegin="Filled" FigureEnd="Closed">
+				<Line>-4, 2</Line>
+				<Line>0, 6</Line>
+				<Line>4, 2</Line>
+			</Figure>
+		</PathGeometry>
+	</TrackSymbol>
+	
+	<!-- Ground Circle -->
+	<TrackSymbol Type="GroundLight" StrokeWidth="0">
+		<EllipseGeometry Center="0,0" RadiusX="6" RadiusY="6" />
+	</TrackSymbol>
+	
+	<!-- Ground Circle -->
+	<TrackSymbol Type="GroundMedium" StrokeWidth="0">
+		<EllipseGeometry Center="0,0" RadiusX="6" RadiusY="6" />
+	</TrackSymbol>
+	
+	<!-- Ground Circle -->
+	<TrackSymbol Type="GroundHeavy" StrokeWidth="5">
+		<EllipseGeometry Center="0,0" RadiusX="5" RadiusY="5" />
+	</TrackSymbol>
+
+</TrackSymbols>

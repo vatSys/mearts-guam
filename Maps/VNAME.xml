@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Local_Private" CustomColourName="Yellow" Name="VFR PTS NAME" Priority="1">   
+	<Label Name="VNAME"> 
+		<Point Name="TWO LOVERS POINT">+133200.000+1444200.000</Point>
+        <Point Name="LEO PALACE RESORT">+132600.000+1444400.000</Point>
+		<Point Name="ROCK QUARRY">+132700.000+1445100.000</Point>
+		<Point Name="RACE TRACK">+133000.000+1445300.000</Point>
+		<Point Name="CAMEL ROCK">+132900.000+1443800.000</Point>
+		<Point Name="PATI POINT">+133500.000+1445800.000</Point>
+		<Point Name="PAGO BAY">+132500.000+1444800.000</Point>		
+	</Label>
+  </Map>
+</Maps>

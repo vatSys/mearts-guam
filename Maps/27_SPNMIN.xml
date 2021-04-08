@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="27_SPN NAMES" Priority="1">   
+	<Label HasLeader="false" Name="SPNFIX"> 
+		<Point Name="AGODY">+151211.540+1455631.790</Point>
+        <Point Name="YEYNU">+145814.280+1460222.180</Point>
+		<Point Name="FIHVY">+150921.130+1454920.810</Point>
+		<Point Name="ZEKUR">+150834.110+1454721.660</Point>	
+	</Label>
+  </Map>
+</Maps>

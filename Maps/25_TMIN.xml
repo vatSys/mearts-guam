@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Global_Private" CustomColourName="White" Name="27_TNI NAMES" Priority="1">   
+	<Label HasLeader="false" Name="TNIFIX"> 
+		<Point Name="COVHI">+145249.390+1452628.500</Point>
+        <Point Name="DAMQY">+145745.140+1452529.390</Point>
+		<Point Name="CENOR">+150340.030+1452418.400</Point>
+		<Point Name="SADVE">+150210.840+1454902.340</Point>	
+        <Point Name="DUCFI">+150057.850+1454232.860</Point>	
+	</Label>
+  </Map>
+</Maps>
